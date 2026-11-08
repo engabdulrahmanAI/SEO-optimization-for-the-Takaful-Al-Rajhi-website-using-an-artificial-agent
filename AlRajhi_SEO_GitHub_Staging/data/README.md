@@ -1,0 +1,1 @@
+This directory is intentionally empty. The original JSON results and CSV datasets have been excluded from the GitHub staging package to prevent unintended disclosure. Use only independently approved or synthetic data here.
